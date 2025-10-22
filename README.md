@@ -17,5 +17,7 @@ We need to install git by running "sudo apt install git" so we can clone the mai
 <img src="https://i.imgur.com/YfbiyO3.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
-
+Ti clone the email;
+Go to the Documents folder by going to the home directory by typing "~/Documents/"
+When in "Documents" folder clone the email by running "git clonee "url of the mail"" 
 https://imgur.com/YfbiyO3
