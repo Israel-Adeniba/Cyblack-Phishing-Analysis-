@@ -42,9 +42,10 @@ Installation confirmation on Desktop
 <img src="https://i.imgur.com/JYXYKGd.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
-To do some manual email file and header analysis, we need a text and code editor not just to rely on the terminal for the full analysis
-We would be installing Sublime Text, an editor for code and different types of markup
-Open Firefox > search "sublime text" > Click the first result > Install for linux 
+To do some manual email file and header analysis, we need a text and code editor not just to rely on the terminal for the full analysis <br />
+We would be installing Sublime Text, an editor for code and different types of markup <br />
+Open Firefox > search "sublime text" > Click the first result > Install for linux <br />
+Run the "sudo apt-get update" command and the "sudo apt-get install sublime-text" command' <br />
 <br />
 <br />
 <img src="https://i.imgur.com/V9t3HxC.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
@@ -54,5 +55,8 @@ Open Firefox > search "sublime text" > Click the first result > Install for linu
 <br />
 <br />
 <img src="https://i.imgur.com/icd6cge.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/R7v6tjK.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
