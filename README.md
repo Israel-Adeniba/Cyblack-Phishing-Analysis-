@@ -29,3 +29,15 @@ To confirm, list the content of the "Documents" folder then the "Cyblack-Phishin
 <img src="https://i.imgur.com/QaIUrmO.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
+We require an email client to interact with email message, preferrably "Mozilla Thundrbird", which is a free and open source option <br />
+Open a terminal window > enter the command "sudo apt install thunderebird" <br />
+<br />
+<br />
+<img src="https://i.imgur.com/eaJVkbP.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+Installation confirmation on Desktop 
+<img src="https://i.imgur.com/JYXYKGd.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+
