@@ -37,7 +37,16 @@ Open a terminal window > enter the command "sudo apt install thunderebird" <br /
 <br />
 <br />
 Installation confirmation on Desktop 
+<br />
+<br />
 <img src="https://i.imgur.com/JYXYKGd.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
-
+To do some manual email file and header analysis, we need a text and code editor not just to rely on the terminal for the full analysis
+We would be installing Sublime Text, an editor for code and different types of markup
+Open Firefox > search "sublime text" > Click the first result > Install for linux 
+<br />
+<br />
+<img src="https://i.imgur.com/JYXYKGd.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
