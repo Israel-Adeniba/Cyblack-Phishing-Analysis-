@@ -22,6 +22,6 @@ Go to the Documents folder by going to the home directory by typing "~/Documents
 When in "Documents" folder clone the email by running "git clonee "url of the mail""  <br />
 <br />
 <br />
-<img src="https://i.imgur.com/8MS7lnW.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<img src="https://i.imgur.com/cO6DuVu.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
