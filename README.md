@@ -47,7 +47,7 @@ We would be installing Sublime Text, an editor for code and different types of m
 Open Firefox > search "sublime text" > Click the first result > Install for linux 
 <br />
 <br />
-<img src="https://i.imgur.com/v9t3HxC.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<img src="https://i.imgur.com/V9t3HxC.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
 <img src="https://i.imgur.com/0lzv1qU.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
