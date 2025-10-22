@@ -19,10 +19,13 @@ We need to install git by running "sudo apt install git" so we can clone the mai
 <br />
 To clone the email; <br />
 Go to the Documents folder by going to the home directory by typing "~/Documents/" <br />
-When in "Documents" folder clone the email by running "git clonee "url of the mail""  <br />
+When in "Documents" folder clone the email by running "git clone "url of the mail""  <br />
 To confirm, list the content of the "Documents" folder then the "Cyblack-Phishing-Analysis" folder
 <br />
 <br />
 <img src="https://i.imgur.com/cO6DuVu.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/QaIUrmO.png" height="80%" width="80%" alt="Building a SOC Lab Steps"/>
 <br />
 <br />
